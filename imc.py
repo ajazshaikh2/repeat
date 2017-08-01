@@ -1,2 +1,3 @@
 print "Hi IMC"
-#New circle details
+greet = "Good evening to all"
+print="greet"
