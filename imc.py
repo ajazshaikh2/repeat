@@ -1,2 +1,5 @@
 print "Hi IMC"
-#Added another SW feature through Feature-2
+greet = "Good evening to all"
+print="greet"
+
+#print good night to all
